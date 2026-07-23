@@ -13,8 +13,30 @@ import crypto from '../imgs/crypto.PNG'
 import corosel from '../imgs/infinitecorousal.PNG'
 import chatapp from '../imgs/chatimg.PNG'
 import dimg from '../imgs/3dp.PNG'
+import contact from '../imgs/Contact.PNG'
+import pixel from '../imgs/pixel.PNG'
+
+
 
 const projectData = [
+  {
+    title: "PixelCraft WebSite",
+    category: "Front-End Development",
+    image: pixel,
+    tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "HTML", "CSS"],
+    description: "A modern and responsive digital agency website built with Next.js, React, TypeScript, and Tailwind CSS. Features a clean UI, reusable components, responsive layouts, and optimized performance.",
+    github: "https://github.com/logeshwarisathya/design-agency",
+    live: "https://design-agency-plum.vercel.app/"
+  },
+   {
+    title: "Contact Management Application",
+    category: "Python Fullstack Development",
+    image: contact,
+    tech: ["Python", "Django", "HTML", "CSS", "SQLite"],
+    description: "A full-stack contact management application built with Django that enables users to create, view, update, search, and delete contacts. Implements CRUD operations with a responsive user interface and SQLite database.",
+    github: "https://github.com/logeshwarisathya/Contact-Management-system",
+    live: "https://github.com/logeshwarisathya/Contact-Management-system"
+  },
   {
     title: "Weather App",
     category: "Front-End Development",
