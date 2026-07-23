@@ -32,7 +32,7 @@ const projectData = [
     title: "Contact Management Application",
     category: "Python Fullstack Development",
     image: contact,
-    tech: ["Python", "Django", "HTML", "CSS", "SQLite"],
+    tech: ["Python", "Django", "HTML", "CSS", "Js", "SQLite"],
     description: "A full-stack contact management application built with Django that enables users to create, view, update, search, and delete contacts. Implements CRUD operations with a responsive user interface and SQLite database.",
     github: "https://github.com/logeshwarisathya/Contact-Management-system",
     live: "https://github.com/logeshwarisathya/Contact-Management-system"
