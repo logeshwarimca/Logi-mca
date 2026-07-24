@@ -71,7 +71,7 @@ const About = () => {
           <motion.h2 variants={item}>About Me</motion.h2>
 
           <motion.p variants={item}>
-            I’m <span>Logeshwari Sathya</span>, a Front-End Developer passionate
+            I’m <span>Logeshwari</span>, a Front-End Developer passionate
             about building modern, animated, and user-friendly web experiences
             using React.
           </motion.p>
